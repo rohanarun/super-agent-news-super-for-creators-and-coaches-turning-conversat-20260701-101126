@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[thepitstop.ai](https://thepitstop.ai/blog/state-of-agent-security-2026)",
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[venturebeat.com](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "seed=42; layout=reuse_comparison_architecture; AIDA=pass; hero_max_width=1120px; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-01T10:11:35.538525+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who live in conversations \u2014 sales calls, coaching sessions, interviews, DMs \u2014 and need those conversations reliably turned into content, workflows, and operational follow\u2011through. The page positions Super as a personal AI agent that can operate real software, reuse a computer-use cache for repeated workflows, and avoid many of the security and reliability failures now documented across agentic AI. It reuses Super\u2019s proven comparison\u2011page visual architecture, cites current reporting on agent security and computer\u2011use trends, and fairly situates competitors like ChatGPT, Gemini, Grok, Siri, Folk, and Orchids as context."
+}
